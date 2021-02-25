@@ -152,3 +152,9 @@
     * [React Native Windows](https://github.com/Microsoft/react-native-windows)
 19. Virtual Reality
     * [React 360](https://facebook.github.io/react-360/)
+
+
+## Một vài tài liệu:
+
+[Tài liệu ReactJS nên kiếm ở đâu](https://nordiccoder.com/blog/tai-lieu-hoc-reactjs-nen-kiem-o-dau/)
+
